@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Classic White T-Shirt",
+    "description": "A timeless white t-shirt made from 100% organic cotton.",
+    "price": 19.99,
+    "image": "https://picsum.photos/seed/1/400/400",
+    "category": "Apparel",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Blue Denim Jeans",
+    "description": "Comfortable and stylish blue denim jeans for everyday wear.",
+    "price": 49.99,
+    "image": "https://picsum.photos/seed/2/400/400",
+    "category": "Apparel",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones with 20 hours battery life.",
+    "price": 89.99,
+    "image": "https://picsum.photos/seed/3/400/400",
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch",
+    "description": "Track your fitness and notifications with this sleek smart watch.",
+    "price": 129.99,
+    "image": "https://picsum.photos/seed/4/400/400",
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "Leather Wallet",
+    "description": "Premium leather wallet with multiple card slots.",
+    "price": 34.99,
+    "image": "https://picsum.photos/seed/5/400/400",
+    "category": "Accessories",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "Running Shoes",
+    "description": "Lightweight running shoes for all terrains.",
+    "price": 59.99,
+    "image": "https://picsum.photos/seed/6/400/400",
+    "category": "Footwear",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Sunglasses",
+    "description": "UV-protected stylish sunglasses for men and women.",
+    "price": 24.99,
+    "image": "https://picsum.photos/seed/7/400/400",
+    "category": "Accessories",
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "title": "Backpack",
+    "description": "Durable backpack with multiple compartments for travel and work.",
+    "price": 44.99,
+    "image": "https://picsum.photos/seed/8/400/400",
+    "category": "Bags",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "title": "Coffee Mug",
+    "description": "Ceramic coffee mug with a modern design.",
+    "price": 12.99,
+    "image": "https://picsum.photos/seed/9/400/400",
+    "category": "Home & Kitchen",
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "price": 39.99,
+    "image": "https://picsum.photos/seed/10/400/400",
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "title": "Yoga Mat",
+    "description": "Eco-friendly yoga mat with non-slip surface.",
+    "price": 29.99,
+    "image": "https://picsum.photos/seed/11/400/400",
+    "category": "Fitness",
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "title": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness.",
+    "price": 22.99,
+    "image": "https://picsum.photos/seed/12/400/400",
+    "category": "Home & Kitchen",
+    "rating": 4.2
+  }
+] 
